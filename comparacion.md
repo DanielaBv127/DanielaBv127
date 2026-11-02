@@ -2,7 +2,7 @@
 Perfiles analizados, tomados de la lista [Awesome Github Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme):
 - [gautamkrishnar](https://github.com/gautamkrishnar/gautamkrishnar)
 - [Raymo111](https://github.com/Raymo111/Raymo111)
-- rafnixg(https://github.com/rafnixg/rafnixg)
+- [rafnixg](https://github.com/rafnixg/rafnixg)
 
 ## Comparación de perfiles
 
