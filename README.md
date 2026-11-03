@@ -6,7 +6,14 @@ Soy Daniela Bozza, estudiante de Ingeniería en Computación en la Escuela Super
 
 ## ¿Qué encontrarás aquí?
 - [Sobre mí](#sobre-mí)
-- [Habilidades y Tecnologías](#habilidad-y-tecnologías)
+- [Habilidades y Tecnologías](#habilidades-y-tecnologías)
 - [Proyectos Destacados](#proyectos-destacados)
 - [Contacto](#contacto)
 
+## Sobre mí
+
+## Habilidades y Tecnologías
+
+## Proyectos Destacados
+
+## Contacto
