@@ -47,7 +47,7 @@ Commits previstos:
 - **Lectura rápida:** Máximo 4 a 5 líneas.
 
 ### Habilidades y Tecnologías
-- **Incluiré:** Lenguajes, herramientas y entornos aprendidos (Java, Android Studio, SQL), con una frase sobre cómo los apliqué en cada proyecto.
+- **Incluiré:** Lenguajes, herramientas y entornos aprendidos (Java, Android Studio, SQL, HTML y CSS), con una frase sobre cómo los apliqué en cada proyecto.
 - **Evitaré:** Listas enormes de iconos sin explicación y tecnologías que no domino.
 - **Formato:** Tabla con columnas Habilidad o tecnología / Para qué la usé / Proyecto.
 - **Enlaces externos:** Ninguno necesario.
@@ -76,7 +76,7 @@ Commits previstos:
   - Agregar anuncios solicitando la información necesaria y una imagen.
   - Mostrar todos los anuncios en una lista.
   - Filtrar los eventos de un día usando el calendario.
-- **Repositorio:** https://github.com/DanielaBv127/POO4_2P_BOZZA_REYES
+- **Repositorio:** [POO_2P_BOZZA_REYES](https://github.com/DanielaBv127/POO4_2P_BOZZA_REYES)
 
 ### Proyecto 2: Sistema de gestión de alquiler de vehículos
 - **Problema o necesidad que resuelve:** Diseño de una base de datos relacional para administrar los procesos de una empresa de alquiler de vehículos, tomando como caso de estudio a Budget Rent a Car Ecuador en Guayaquil. Busca reducir errores operativos y garantizar la integridad de la información.
@@ -85,12 +85,14 @@ Commits previstos:
   - Gestión de clientes, reservas y contratos de alquiler.
   - Control de la flota vehicular y de sus mantenimientos.
   - Pagos, facturación, seguros, sanciones y reportes gerenciales, con roles de usuario y permisos definidos.
-- **Repositorio:** https://github.com/stephJJK/ProyectoSBD
+- **Repositorio:** [ProyectoSBD](https://github.com/stephJJK/ProyectoSBD)
 
-### Proyecto 3: Sistema de registro con envío de correo
-- **Problema o necesidad que resuelve:** Sistema que registra información y envía un correo electrónico.
-- **Tecnologías:** Java.
+### Proyecto 3: Festivanimal, sitio web sobre un evento comunitario
+
+- **Problema o necesidad que resuelve:** Sitio web informativo sobre el Festivanimal, un evento de bienestar animal en Guayaquil con adopción, vacunación y entretenimiento. Reúne las actividades, los servicios veterinarios, los aliados y los testimonios de asistentes recopilados mediante entrevistas.
+- **Tecnologías:** HTML, CSS, plantilla Helios de HTML5 UP y GitHub Pages.
 - **Funcionalidades principales:**
-  - Registro de información.
-  - Envío de correo electrónico.
-- **Repositorio:** https://github.com/PaolaReyes0322/POO4_1P_BOZZA_REYES
+  - Páginas de inicio, actividades, servicios y experiencias, con menú de navegación.
+  - Carrusel de marcas aliadas y mapa de ubicación en el pie de página.
+  - Testimonios basados en siete entrevistas realizadas durante el evento.
+- **Repositorio:** [Proyecto-Festivanimal](https://github.com/DanielaBv127/Proyecto-Festivanimal)
