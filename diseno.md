@@ -15,9 +15,9 @@ Descartaré "Área de interés", ya que se integrará en la sección "Sobre mí"
 
 Usaré commits convencionales y un commit por cada cambio importante:
 
--'docs:' para contenido y secciones del README.
--'feat:' para agregar un proyecto destacado o un enlace nuevo.
--'fix:' para corregir ortografía, enlaces rotos o errores de formato.
+- 'docs:' para contenido y secciones del README.
+- 'feat:' para agregar un proyecto destacado o un enlace nuevo.
+- 'fix:' para corregir ortografía, enlaces rotos o errores de formato.
 
 Flujo de trabajo: Se escribe una sección, se revisa la vista previa, se realiza el commit con mensaje descriptivo y se verifica el resultado en GitHub antes de continuar.
 
