@@ -33,9 +33,9 @@ Commits previstos:
 ## Diseño del contenido
 
 ### Presentación
-- **Incluiré:** Nombre, qué estudio, qué busco y un banner o imagen decorativa de bienvenida.
-- **Evitaré:** Frases largas y datos personales sensibles.
-- **Formato:** Título, banner y un párrafo corto en texto.
+- **Incluiré:** Un banner, el título "¡Bienvenido!", mi nombre, qué estudio y qué busco, y un apartado "¿Qué encontrarás aquí?" con enlaces a cada sección.
+- **Evitaré:** Frases largas, imágenes con mucho texto, datos personales sensibles y repetir contenido de "Sobre mí".
+- **Formato:** Banner, título, una o dos líneas de texto y una lista de enlaces internos.
 - **Enlaces externos:** Ninguno.
 - **Lectura rápida:** Debe entenderse en 10 segundos, incluso si la imagen no carga.
 
