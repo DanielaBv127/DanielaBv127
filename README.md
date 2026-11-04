@@ -21,6 +21,16 @@ Soy Daniela Bozza, estudiante de Ingeniería en Computación en la Escuela Super
 
 ## Proyectos Destacados
 
+### Aplicación de anuncios con calendario
+
+- **Qué resuelve:** Permite publicar y consultar anuncios de eventos en un solo lugar y ver qué eventos hay en cada día mediante un calendario.
+- **Tecnologías:** Java y Android Studio.
+- **Funcionalidades:**
+  - Agregar anuncios con la información necesaria y una imagen.
+  - Mostrar todos los anuncios en una lista.
+  - Filtrar los eventos de un día con el calendario.
+- **Repositorio:** [POO4_2P_BOZZA_REYES](https://github.com/DanielaBv127/POO4_2P_BOZZA_REYES)
+
 ## Habilidades y Tecnologías
 
 ## Contacto
