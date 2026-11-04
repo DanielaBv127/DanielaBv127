@@ -41,6 +41,17 @@ Soy Daniela Bozza, estudiante de Ingeniería en Computación en la Escuela Super
   - Pagos, facturación, seguros, sanciones y reportes, con roles de usuario y permisos definidos.
 - **Repositorio:** [ProyectoSBD](https://github.com/stephJJK/ProyectoSBD)
 
+### Festivanimal: Sitio web de un evento comunitario
+
+- **Qué resuelve:** Sitio informativo sobre un evento de bienestar animal en Guayaquil, con actividades, servicios veterinarios, aliados y testimonios de asistentes recogidos en entrevistas.
+- **Tecnologías:** HTML, CSS, plantilla Helios de HTML5 UP y GitHub Pages.
+- **Funcionalidades:**
+  - Páginas de inicio, actividades, servicios y experiencias, con menú de navegación.
+  - Carrusel de marcas aliadas y mapa de ubicación.
+  - Testimonios basados en siete entrevistas realizadas durante el evento.
+- **Repositorio:** [Proyecto-Festivanimal](https://github.com/DanielaBv127/Proyecto-Festivanimal)
+- **Demo:** [Ver sitio publicado](https://danielabv127.github.io/Proyecto-Festivanimal/)
+  
 ## Habilidades y Tecnologías
 
 ## Contacto
