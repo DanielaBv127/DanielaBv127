@@ -54,4 +54,23 @@ Soy Daniela Bozza, estudiante de Ingeniería en Computación en la Escuela Super
   
 ## Habilidades y Tecnologías
 
+### 🎨 Habilidades
+
+- Diseño UX/UI y experiencia de usuario
+- Design Thinking
+- Prototipado en Figma
+- Diseño de bases de datos relacionales
+- Desarrollo web con HTML y CSS
+- Control de versiones con Git y GitHub
+
+### 🛠️ Tecnologías
+
+| Tecnología | ¿Cómo se la aplicó? | Proyecto |
+|---|---|---|
+| Java | Desarrollo de la aplicación móvil de anuncios | Aplicación de anuncios con calendario |
+| Android Studio | Entorno para construir y probar la aplicación | Aplicación de anuncios con calendario |
+| SQL y MySQL Workbench | Diseño y gestión de la base de datos relacional | Sistema de gestión de alquiler de vehículos |
+| HTML y CSS | Estructura y estilos del sitio, a partir de la plantilla Helios | Festivanimal |
+| GitHub y GitHub Pages | Control de versiones y publicación del sitio | Festivanimal |
+
 ## Contacto
