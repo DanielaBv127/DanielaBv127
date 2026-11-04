@@ -65,13 +65,17 @@ Soy Daniela Bozza, estudiante de Ingeniería en Computación en la Escuela Super
 
 ### 🛠️ Tecnologías
 
-| Tecnología | ¿Cómo se la aplicó? | Proyecto |
-|---|---|---|
-| Java | Desarrollo de la aplicación móvil de anuncios | Aplicación de anuncios con calendario |
-| Android Studio | Entorno para construir y probar la aplicación | Aplicación de anuncios con calendario |
-| SQL y MySQL Workbench | Diseño y gestión de la base de datos relacional | Sistema de gestión de alquiler de vehículos |
-| HTML y CSS | Estructura y estilos del sitio, a partir de la plantilla Helios | Festivanimal |
-| GitHub y GitHub Pages | Control de versiones y publicación del sitio | Festivanimal |
+| Tecnología | ¿Qué es? | ¿Cómo la apliqué? | Proyecto |
+|---|---|---|---|
+| HTML | Lenguaje que define la estructura de una página web | Estructura semántica con `header`, `nav`, `article`, `section` y `footer`, jerarquía de títulos, menú de navegación, pie de página con mapa y un Reel de Instagram incrustado | Festivanimal |
+| CSS | Lenguaje que define el aspecto de una página | Fuente propia, color de marca, título con contorno blanco para mejorar el contraste, portada con degradado para que el texto se lea, carrusel con tarjetas uniformes y ajuste de espaciados | Festivanimal |
+| Plantilla Helios (HTML5 UP) | Plantilla web prediseñada y adaptable a computador, tablet y celular | Reemplacé el contenido de demostración por la información real del evento y personalicé su diseño | Festivanimal |
+| Git y GitHub | Control de versiones y plataforma para alojar repositorios | Historial de 36 commits con mensajes descriptivos (`feat`, `style`, `refactor`) | Festivanimal y este perfil |
+| GitHub Pages | Servicio para publicar sitios web desde un repositorio | Publicación del sitio y verificación de estilos, imágenes, carrusel, enlaces y mapa | Festivanimal y este perfil |
+| Markdown | Lenguaje sencillo para dar formato a texto | Documentación de Festivanimal en su README y redacción de este perfil | Festivanimal y este perfil |
+| Java | Lenguaje de programación orientado a objetos | Programación de la aplicación móvil | Aplicación de anuncios con calendario |
+| Android Studio | Entorno oficial para crear aplicaciones Android | Creación de la aplicación y visualización de cómo se ve y funciona | Aplicación de anuncios con calendario |
+| SQL y MySQL Workbench | SQL es el lenguaje de las bases de datos relacionales; Workbench es una herramienta visual para diseñarlas | Creación de las tablas de la base de datos | Sistema de gestión de alquiler de vehículos |
 
 ## Contacto
 
