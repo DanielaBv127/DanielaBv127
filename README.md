@@ -31,6 +31,16 @@ Soy Daniela Bozza, estudiante de Ingeniería en Computación en la Escuela Super
   - Filtrar los eventos de un día con el calendario.
 - **Repositorio:** [POO4_2P_BOZZA_REYES](https://github.com/DanielaBv127/POO4_2P_BOZZA_REYES)
 
+### Sistema de gestión de alquiler de vehículos
+
+- **Qué resuelve:** Diseño de una base de datos relacional para administrar los procesos de una empresa de alquiler de vehículos, con Budget Rent a Car Ecuador en Guayaquil como caso de estudio.
+- **Tecnologías:** SQL y MySQL Workbench.
+- **Funcionalidades:**
+  - Gestión de clientes, reservas y contratos de alquiler.
+  - Control de la flota vehicular y de sus mantenimientos.
+  - Pagos, facturación, seguros, sanciones y reportes, con roles de usuario y permisos definidos.
+- **Repositorio:** [ProyectoSBD](https://github.com/stephJJK/ProyectoSBD)
+
 ## Habilidades y Tecnologías
 
 ## Contacto
