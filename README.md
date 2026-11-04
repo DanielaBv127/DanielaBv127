@@ -76,5 +76,5 @@ Soy Daniela Bozza, estudiante de Ingeniería en Computación en la Escuela Super
 ## Contacto
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/daniela-bozza-ba2854310/)
-- 📧 [Escríbeme por correo](marbozza@espol.edu.ec)
+- 📧 [Escríbeme por correo](mailto:marbozza@espol.edu.ec)
 - 💻 [GitHub](https://github.com/DanielaBv127)
