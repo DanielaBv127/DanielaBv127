@@ -74,3 +74,7 @@ Soy Daniela Bozza, estudiante de Ingeniería en Computación en la Escuela Super
 | GitHub y GitHub Pages | Control de versiones y publicación del sitio | Festivanimal |
 
 ## Contacto
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/daniela-bozza-ba2854310/)
+- 📧 [Escríbeme por correo](marbozza@espol.edu.ec)
+- 💻 [GitHub](https://github.com/DanielaBv127)
