@@ -14,7 +14,7 @@ Soy Daniela Bozza, estudiante de Ingeniería en Computación en la Escuela Super
 ## Sobre mí
 
 - 🎨 **Intereses:** Diseño UX/UI, prototipado interactivo y experiencias digitales intuitivas.
-- 💻 **Me gusta programar:** He aprendido Java, SQL, HTML y CSS.
+- 💻 **Desarrollo:** Java, SQL, HTML y CSS.
 - 💡 **Me motiva:** Crear productos funcionales y accesibles, combinando diseño y desarrollo de software.
 - 🔎 **Busco:** Oportunidades en diseño de interfaces y producto digital.
 - 🏐 **Fuera de la pantalla:** Voleibol, crochet y viajar.
@@ -28,7 +28,7 @@ Soy Daniela Bozza, estudiante de Ingeniería en Computación en la Escuela Super
 - **Funcionalidades:**
   - Agregar anuncios con la información necesaria y una imagen.
   - Mostrar todos los anuncios en una lista.
-  - Filtrar los eventos de un día con el calendario.
+  - Filtrar los eventos de un día en el calendario.
 - **Repositorio:** [POO4_2P_BOZZA_REYES](https://github.com/DanielaBv127/POO4_2P_BOZZA_REYES)
 
 ### Sistema de gestión de alquiler de vehículos
@@ -37,7 +37,7 @@ Soy Daniela Bozza, estudiante de Ingeniería en Computación en la Escuela Super
 - **Tecnologías:** SQL y MySQL Workbench.
 - **Funcionalidades:**
   - Gestión de clientes, reservas y contratos de alquiler.
-  - Control de la flota vehicular y de sus mantenimientos.
+  - Control de la flota vehicular y de su mantenimiento.
   - Pagos, facturación, seguros, sanciones y reportes, con roles de usuario y permisos definidos.
 - **Repositorio:** [ProyectoSBD](https://github.com/stephJJK/ProyectoSBD)
 
@@ -70,6 +70,9 @@ Soy Daniela Bozza, estudiante de Ingeniería en Computación en la Escuela Super
 | HTML | Lenguaje que define la estructura de una página web | Estructura semántica con `header`, `nav`, `article`, `section` y `footer`, jerarquía de títulos, menú de navegación, pie de página con mapa y un Reel de Instagram incrustado | Festivanimal |
 | CSS | Lenguaje que define el aspecto de una página | Fuente propia, color de marca, título con contorno blanco para mejorar el contraste, portada con degradado para que el texto se lea, carrusel con tarjetas uniformes y ajuste de espaciados | Festivanimal |
 | Plantilla Helios (HTML5 UP) | Plantilla web prediseñada y adaptable a computador, tablet y celular | Reemplacé el contenido de demostración por la información real del evento y personalicé su diseño | Festivanimal |
+| Font Awesome | Librería de iconos para sitios web | Iconos de ubicación (`fa-map-marker-alt`), cámara (`fa-camera`) y redes sociales (`fa-facebook`, `fa-instagram`) en el sitio | Festivanimal |
+| Google Fonts | Servicio de tipografías gratuitas | Tipografía Source Sans Pro para el texto del sitio, combinada con la fuente local Matcha Mint del título | Festivanimal |
+| jQuery | Librería de JavaScript | Viene incluida en la plantilla Helios y da soporte a la interactividad del sitio | Festivanimal |
 | Git y GitHub | Control de versiones y plataforma para alojar repositorios | Historial de 36 commits con mensajes descriptivos (`feat`, `style`, `refactor`) | Festivanimal y este perfil |
 | GitHub Pages | Servicio para publicar sitios web desde un repositorio | Publicación del sitio y verificación de estilos, imágenes, carrusel, enlaces y mapa | Festivanimal y este perfil |
 | Markdown | Lenguaje sencillo para dar formato a texto | Documentación de Festivanimal en su README y redacción de este perfil | Festivanimal y este perfil |
